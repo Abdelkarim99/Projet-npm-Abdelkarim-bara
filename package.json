@@ -1,0 +1,9 @@
+{
+  "name": "number_to_words-fr",
+  "version": "1.0.0",
+  "description": "Convertit des nombres en leur version textuelle en français.",
+  "main": "index.js",
+  "author": "Abdelkarim BARA",
+  "license": "MIT",
+  "keywords": ["numbers", "words", "converter", "french"]
+}
